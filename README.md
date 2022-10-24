@@ -8,8 +8,11 @@ If you need to contact me use the provided public
 Regards
 Gerd
 
-PS.. below a screen how to add the key to kleopatra
+PS.. below you'll find screen shots how to import the key to klepoatra and thunderbird...
+
 ![kleopatra how to](./images/kleopatra_import_pgp_key.png)
+
+![thunderbird how to](./images/thunderbird_import_pgp_key.png)
 
 
 <!---

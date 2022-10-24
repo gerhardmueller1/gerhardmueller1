@@ -2,7 +2,8 @@
 
 You'll not find much information about me. 
 I'm very restrictive with personal data in any public space. 
-If you need to contact me use the provided public PGP key. 
+If you need to contact me use the provided public 
+[PGP](.pgp/Gerhard_Mueller.asc) key.  
 
 Regards
 Gerd

@@ -9,7 +9,7 @@ Regards
 Gerd
 
 PS.. below you'll find screen shots how to import the key to 
-(PGP4Win](https://www.gpg4win.de/) using klepoatra and thunderbird...
+[PGP4Win](https://www.gpg4win.de/) using klepoatra and thunderbird...
 
 ![kleopatra how to](./images/kleopatra_import_pgp_key.png)
 

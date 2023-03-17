@@ -16,11 +16,11 @@ Home automation with HomeAssistant
  
 Hugo
 
-#Others
+# Others
 
 Good Food
 
-#Contact
+# Contact
     
 use [PGP](.pgp/Gerhard_Mueller.asc) key. 
 (key certified by [Gevernikus KG](https://pgp.governikus.de/pgp/). 

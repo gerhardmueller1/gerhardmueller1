@@ -1,19 +1,31 @@
-👋 Hi I’m @gerhardmueller1, 
+Gerhard Müller
+---
+My interests. My projects.
 
-a solution architect, living in northern Germany. 
+# Profession
 
-If you need to contact me use the provided public 
-[PGP](.pgp/Gerhard_Mueller.asc) key.  
+    systems engeneering
+    solution architecture
 
-Please use pgp encrypted mails, public key certified by 
-[Gevernikus KG](https://pgp.governikus.de/pgp/). 
+# Interests
+
+    Linux
+    Home automation with HomeAssistant
+    Hugo
+
+#Others
+
+    Good Food
+
+#Contact
+    
+    use [PGP](.pgp/Gerhard_Mueller.asc) key. 
+    (key certified by [Gevernikus KG](https://pgp.governikus.de/pgp/). 
 
 
-Thanks/Regards
-Gerd
+# PS.. 
 
-PS.. below you'll find screenshots how to import the key to 
-[PGP4Win](https://www.gpg4win.de/) using klepoatra or thunderbird...
+    how to import keys to [PGP4Win](https://www.gpg4win.de/) using klepoatra or thunderbird...
 
 ![kleopatra how to](./images/kleopatra_import_pgp_key.png)
 

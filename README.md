@@ -10,26 +10,25 @@ solution architecture
 
 # Interests
 
- Linux
+Linux
  
- Home automation with HomeAssistant
+Home automation with HomeAssistant
  
- Hugo
+Hugo
 
 #Others
 
- 
- Good Food
+Good Food
 
 #Contact
     
- use [PGP](.pgp/Gerhard_Mueller.asc) key. 
- (key certified by [Gevernikus KG](https://pgp.governikus.de/pgp/). 
+use [PGP](.pgp/Gerhard_Mueller.asc) key. 
+(key certified by [Gevernikus KG](https://pgp.governikus.de/pgp/). 
 
 
 # PS.. 
 
- how to import keys to [PGP4Win](https://www.gpg4win.de/) using klepoatra or thunderbird...
+how to import keys to [PGP4Win](https://www.gpg4win.de/) using klepoatra or thunderbird...
 
 ![kleopatra how to](./images/kleopatra_import_pgp_key.png)
 

@@ -2,13 +2,13 @@ Gerhard Müller
 ---
 My interests. My projects.
 
-# Profession
+## Profession
 
 systems engeneering
 
 solution architecture
 
-# Interests
+## Interests
 
 Linux
  
@@ -16,17 +16,17 @@ Home automation with HomeAssistant
  
 Hugo
 
-# Others
+## Others
 
 Good Food
 
-# Contact
+## Contact
     
 use [PGP](.pgp/Gerhard_Mueller.asc) key. 
 (certified by [Gevernikus KG](https://pgp.governikus.de/pgp/)). 
 
 
-# PS.. 
+## PS.. 
 
 how to import keys to [PGP4Win](https://www.gpg4win.de/) using klepoatra or thunderbird...
 

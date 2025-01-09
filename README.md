@@ -23,7 +23,6 @@ Good Food
 ## Contact
     
 use [PGP](.pgp/Gerhard_Mueller.asc) key. 
-(certified by [Gevernikus KG](https://pgp.governikus.de/pgp/)). 
 
 
 ## PS.. 
